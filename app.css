@@ -15,7 +15,7 @@ body{
 .container{
     margin: auto;
     padding: 1em;
-    widows: 80%;
+    width: 80%;
 }
 .destination-container{
     display: flex;
@@ -40,4 +40,7 @@ body{
 
 #paris {
     background-color: #d32f2f;
+}
+#mosco{
+    background-color: darkgoldenrod;
 }
